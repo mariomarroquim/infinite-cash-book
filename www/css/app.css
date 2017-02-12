@@ -1,0 +1,14 @@
+#errors li {
+  font-weight: bold;
+  color: #FFFFFF;
+  background-color: #CC4444;
+  border: 1px solid #CC4444;
+}
+
+.red {
+  color: #CC4444;
+}
+
+.green {
+  color: green;
+}
